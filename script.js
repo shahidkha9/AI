@@ -22,6 +22,45 @@ window.addEventListener('DOMContentLoaded', event => {
         }
 
     };
+     // Replace 'YOUR_API_KEY' with your OpenAI API key
+  const apiKey = f56d674203a94e1a9cb586886c60828f;
+
+  async function sendMessage() {
+      const userInput = document.getElementById("userInput").value;
+      appendMessage("You: " + userInput);
+
+      const response = await getChatbotResponse(userInput);
+      appendMessage("Chatbot: " + response);
+
+      document.getElementById("userInput").value = "";
+  }
+
+  async function getChatbotResponse(userInput) {
+      const response = await fetch('https://api.openai.com/v1/completions', {
+          method: 'POST',
+          headers: {
+              'Content-Type': 'application/json',
+              'Authorization': 'Bearer ' + apiKey,
+          },
+          body: JSON.stringify({
+              model: 'text-davinci-003',
+              prompt: userInput,
+              max_tokens: 50
+          })
+      });
+
+      const data = await response.json();
+      return data.choices[0].text.trim();
+  }
+
+  function appendMessage(message) {
+      const chatbox = document.getElementById("chatbox");
+      const messageElement = document.createElement("div");
+      messageElement.textContent = message;
+      chatbox.appendChild(messageElement);
+      chatbox.scrollTop = chatbox.scrollHeight;
+  }
+</script>
 
     // Shrink the navbar 
     navbarShrink();
