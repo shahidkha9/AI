@@ -29,7 +29,7 @@
 | Font | Times New Roman | D1 (iv); D2 slide 29 |
 | Body font size | 12 pt | D1 (v); D2 slide 29 |
 | Line spacing | Double (2.0) throughout | D1 (iv); D2 slide 29 |
-| Margins | **1 inch top, right, bottom; 2 inches left** (for binding) | D1 (iii) — see Conflict C1 |
+| Margins | **1 inch top, right, bottom; 2 inches left** (for binding) | D1 (iii) — confirmed by researcher |
 | Spacing after punctuation | One space only | D1 (vi) |
 | Paragraph indent | First line indented 0.5 inch, using the Tab key | D1 (vii) |
 | Page numbers | Header, **upper right-hand corner**, 0.5 inch from top, all pages numbered consecutively | D1 (viii) |
@@ -152,7 +152,7 @@ This keeps D1's numbering and chapter titles and adds every heading D2 lists as 
 
 | # | Issue | What the documents say | My recommended handling |
 |---|-------|------------------------|-------------------------|
-| **C1** | Left margin | D1: 2 inches left, 1 inch elsewhere. D2 slide 29 and D3: 1 inch all sides | Follow D1 (2" left), because it is the departmental binding rule. Confirm with supervisor, as 2" is unusually wide |
+| **C1** | Left margin | D1: 2 inches left, 1 inch elsewhere. D2 slide 29 and D3: 1 inch all sides | **Resolved (14 Oct 2026):** 2" left margin, as stated in D1. Researcher confirmed |
 | **C2** | Preliminary page numbers | D1 §1(b): declaration = iii. D1 sample TOC: declaration = ii, acknowledgement = iii, dedication = iv, abstract unnumbered, TOC = v. These cannot all be correct | Number pages consecutively in the actual order (title = i, declaration = ii …). Let Word generate the numbers rather than forcing "iii" or "v" |
 | **C3** | Location of Lists of Tables / Figures / Abbreviations | D1 §3 says they are "to be attached after chapter 5". D1's sample TOC and D2 slide 3 place them among the preliminary pages | **Needs supervisor decision.** Default: preliminary pages, because two of three references place them there |
 | **C4** | Order of preliminary pages | D1: title, declaration, acknowledgement, dedication, abstract, TOC, lists. D2: title, declaration, acknowledgement (optional), abstract, list of tables, list of figures, TOC (no dedication) | Follow D1's order. Dedication is optional in practice; include only if you want one |
@@ -163,7 +163,7 @@ This keeps D1's numbering and chapter titles and adds every heading D2 lists as 
 | **C9** | Content of title page | D1 gives only title formatting. No template for university name, logo, "submitted by / supervised by", degree statement or session | **Need the official title-page sample** (Question Q1) |
 | **C10** | Declaration wording | D1 and D2 require a Candidate Declaration Form / Declaration of Originality but give no text | **Need the official form**; I will not invent its wording |
 | **C11** | Supervisor certificate / approval page | Not mentioned in any document | Do not include unless the department provides one |
-| **C12** | Spelling convention | Not specified. D1 uses American "organization, centralized" but British "Acknowledgement" | Choose one convention (see Q4) |
+| **C12** | Spelling convention | Not specified. D1 uses American "organization, centralized" but British "Acknowledgement" | **Resolved (14 Oct 2026):** British English throughout (organisation, analyse, colour). Direct quotations keep their original spelling |
 | **C13** | Supervisor's name | "Khuram Dad" (D2, D5) and "Khuram Daad" (D4) | Use "Khuram Dad" unless you confirm otherwise |
 
 ---
@@ -174,9 +174,9 @@ This keeps D1's numbering and chapter titles and adds every heading D2 lists as 
 
 **Q2. Lists placement (C3).** Should the Lists of Tables, Figures and Abbreviations go at the start (preliminary pages) or after Chapter 5? Please ask your supervisor; my default is the preliminary pages.
 
-**Q3. Left margin (C1).** Please confirm with your supervisor that the left margin is 2 inches and not 1.5 inches.
+**Q3. Left margin (C1).** ✅ Answered: 2 inches, as stated in the departmental guide.
 
-**Q4. Spelling.** British English (organisation, analyse, colour) or American English (organization, analyze, color)? I recommend British, as it is the usual convention in Pakistani universities, but either is acceptable if used consistently.
+**Q4. Spelling.** ✅ Answered: British English.
 
 **Q5. Word count scope.** Does the 10,000-word minimum count only Chapters 1–5, or does it include references and appendices? I recommend assuming main text only, which is the safer interpretation.
 
