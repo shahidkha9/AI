@@ -61,7 +61,7 @@ Target length when complete: about 4,000 words.
 
 ## 4.3 RQ2: Linguistic and Discursive Strategies  *(target ≈ 950 words)*
 
-*RQ2: What linguistic and discursive strategies (lexical choice, headline structure, transitivity, attribution and quotation) are used to frame the amendment in the two sets of texts?*
+*RQ2: What linguistic and discursive strategies (lexical choice, headline structure, transitivity, attribution and quotation) are used to frame the 26th Constitutional Amendment in the two sets of texts?*
 
 ### 4.3.1 Headlines
 [FILL: what each headline foregrounds; whose action or voice comes first; use of metaphor, presupposition or quotation in the headline.]
